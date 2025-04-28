@@ -1,0 +1,15 @@
+{
+  "tasks": [
+    {
+      "task_name": "Task",
+      "task_complete": "False",
+      "task_create_date": "YYYY-MM-DDTHH:MM:SS",
+      "task_due_date": "YYYY-MM-DDTHH:MM:SS",
+      "task_details": "Task details.",
+      "task_category": "Category",
+      "task_priority": "Urgency",
+      "task_reminder_time": "YYYY-MM-DDTHH:MM:SS",
+      "task_last_update": "YYYY-MM-DDTHH:MM:SS"
+    }
+  ]
+}
