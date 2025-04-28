@@ -2,7 +2,7 @@
   "tasks": [
     {
       "task_name": "Task",
-      "task_complete": "False",
+      "task_complete": false,
       "task_create_date": "YYYY-MM-DDTHH:MM:SS",
       "task_due_date": "YYYY-MM-DDTHH:MM:SS",
       "task_details": "Task details.",
