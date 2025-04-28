@@ -17,7 +17,7 @@ jsonExists = os.path.exists(tasks_json_path)
 
 if jsonExists == False:    
     with open(tasks_json_path, 'w', encoding='utf-8') as tasks_json:
-        tasks_json.write("[]")
+        tasks_json.write('{\n  "tasks": []\n}')
         print("tasks.json was created.")
 else:
     print("tasks.json already exists.")
