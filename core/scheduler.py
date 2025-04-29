@@ -2,8 +2,8 @@ import os
 import json
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
-tasks_json_path = "../data/tasks.json"
 
+tasks_json_path = "../data/tasks.json"
 
 #Opens tasks.json file and parses it to a dictionary.
 def load_tasks():
